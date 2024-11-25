@@ -15,7 +15,7 @@ Here's a quick overview of the technologies and tools I work with:
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tushar-baghe&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tushar-baghel&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark)
 
 ## 📫 How to Reach Me
 
