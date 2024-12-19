@@ -2,20 +2,20 @@
 
 # Hi there, I'm TUSHAR BAGHEL 👋
 
-Welcome to my GitHub profile! I'm a Jr Software Engineer passionate about Software development. Here, you'll find a collection of my projects, contributions, and repositories that reflect my work and interests in [Your Field/Technologies].
+Welcome to my GitHub profile! I'm a Jr Software Engineer passionate about Software development. Here, you'll find a collection of my projects, contributions, and repositories that reflect my work and interests in Software engineering and java full stack development.
 
 ## 🔧 Technologies & Tools
 
 Here's a quick overview of the technologies and tools I work with:
 
-- **Languages:** [Java,HTML, CSS, JavaScript,C.]
-- **Frameworks & Libraries:** [React, Spring .]
-- **Tools:** [Git, VSCode, Intellij]
-- **Databases:** [MySQL]
+- **Languages:** Java,HTML, CSS, JavaScript.
+- **Frameworks & Libraries:** React, Spring
+- **Tools:** Git, VSCode, Intellij
+- **Databases:** MySQL
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tushar-baghel&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark)
+Tushar's GitHub Stats(https://github-readme-stats.vercel.app/api?username=tushar-baghel&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=dark)
 
 ## 📫 How to Reach Me
 
