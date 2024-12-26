@@ -12,6 +12,7 @@ Here's a quick overview of the technologies and tools I work with:
 - **Frameworks & Libraries:** React, Spring
 - **Tools:** Git, VSCode, Intellij
 - **Databases:** MySQL
+- **Cloud:** AWS,GCP
 
 ## 📈 GitHub Stats
 
