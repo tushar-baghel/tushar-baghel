@@ -25,6 +25,7 @@ I’d love to connect! You can reach me through:
 - **Email:** [tusharbaghel704@gmail.com](mailto:tusharbaghel704@gmail.com)
 - **LinkedIn:** [tushar-baghel](https://www.linkedin.com/in/tushar-baghel/)
 - **Twitter:** [@tushar_baghel_](https://twitter.com/tushar_baghel_)
+- **LeetCode:** [@tushar_baghel_](https://leetcode.com/u/tusharbaghel/)
 
 
 ## 💬 Let's Connect!
