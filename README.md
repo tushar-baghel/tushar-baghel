@@ -10,7 +10,7 @@ Here's a quick overview of the technologies and tools I work with:
 
 - **Languages:** Java,HTML, CSS, JavaScript.
 - **Frameworks & Libraries:** React, Spring
-- **Tools:** Git, VSCode, Intellij
+- **Tools:** Git, VSCode, Intellij, Ecclipse
 - **Databases:** MySQL
 - **Cloud:** AWS,GCP
 
