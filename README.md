@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a Jr Software Engineer - FSE, passionate about
 Here's a quick overview of the technologies and tools I work with:
 
 - **Languages:** C, C++, Java,HTML, CSS, JavaScript.
-- **Frameworks & Libraries:** React, Spring , Spring MVC
+- **Frameworks & Libraries:** React, Spring , Spring MVC , Spring Boot
 - **Tools:** Git, VSCode, Intellij, Ecclipse
 - **Databases:** MySQL
 - **Cloud:** AWS,GCP
