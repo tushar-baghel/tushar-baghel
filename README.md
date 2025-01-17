@@ -33,7 +33,7 @@ I’d love to connect! You can reach me through:
 
 I'm always open to discussing new projects, collaborations, or just tech in general. Feel free to reach out or drop a message !
 
-Thank you for visiting my GitHub profile! 
+Thank you for visiting my GitHub profile! Radhey Shyam 
 
 ---
 
