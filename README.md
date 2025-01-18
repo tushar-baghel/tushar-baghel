@@ -1,7 +1,7 @@
 ---
 
 # Hi there, I'm TUSHAR BAGHEL 👋
-Radhey Radhey !
+Radhey Radhey !❤️
 
 Welcome to my GitHub profile! I'm a Jr Software Engineer - FSE, passionate about Software development. Here, you'll find a collection of my projects, contributions, and repositories that reflect my work and interests in Software engineering and java full stack development.
 
