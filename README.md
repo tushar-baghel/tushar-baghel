@@ -11,7 +11,7 @@ Here's a quick overview of the technologies and tools I work with:
 
 - **Languages:** C, Java,HTML, CSS, JavaScript.
 - **Frameworks & Libraries:** React, Spring , Spring MVC , Spring Boot
-- **Tools:** Git, VSCode, Intellij, Ecclipse, Github
+- **Tools:** Git, VSCode, Intellij, Ecclipse, Github, Github Copilot
 - **Databases:** MySQL
 - **Cloud:** AWS,GCP
 
